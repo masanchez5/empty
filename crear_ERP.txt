@@ -1,0 +1,24 @@
+crear ERP para mostrar en entrevista
+
+- tener hosting gratuito
+
+
+
+- tener server en spring
+	- El servidor solo recibe datos en springboot, no necesita parametros de teclado.
+
+	- RestAPI
+	-Creamos base de datos con:
+		empleados, productos, clientes, tickets
+
+
+- tener Frontend
+	- HTML / CSS / BOOTSTRAP
+
+	- Comunicar frontend con backend por http a través de JSON
+	
+	- Poder hacer login
+	
+	- crear listas para mostrar, editar, borrar empleados, productos...
+
+	
